@@ -2,7 +2,7 @@
 <h3 align="center">I just started to use git!</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=christophecvb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rwb2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="left">
